@@ -1,1 +1,4 @@
 this the text file of veeru
+this is the feature_1 of the veeru file
+this is the feature_2 of the veeru file
+ 
